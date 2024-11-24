@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FhY5wDlOPRbbkYVdDsRAfcI5JiFyW5F3zKCHqhVIhzYobcIvxpbtg78RM7gqFgkfEB9xH/DIt5TsULowjRc0cw==",
+  "success": true,
+  "projectFilePath": "C:\\Projeto pessoal\\Apis\\Graphql\\WebSocketChatApp\\WebSocketChatApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silvana\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\Silvana\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\Silvana\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

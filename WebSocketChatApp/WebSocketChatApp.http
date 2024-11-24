@@ -1,0 +1,11 @@
+@WebSocketChatApp_HostAddress = http://localhost:5190
+
+GET {{WebSocketChatApp_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{WebSocketChatApp_HostAddress}}/todos/1
+Accept: application/json
+
+###
